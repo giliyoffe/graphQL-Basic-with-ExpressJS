@@ -1,2 +1,2 @@
-# graphQL-Basic
-GraphQL Basic fuctionality
+# GraphQL-Basic-with-ExpressJS
+GraphQL Basic fuctionality with ExpressJS
